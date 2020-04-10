@@ -8,7 +8,7 @@ categories: random writing
 
 
 <audio preload="auto" autoplay="autoplay">
-    <source src="https://raw.githubusercontent.com/blue05/blue05.github.io/master/_includes/demo/linghun.m4a" />
+    <source src="/_includes/demo/linghun.m4a" />
 </audio>
 
 
