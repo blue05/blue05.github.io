@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Linghun"
-categories: random writing
+categories: demo
 ---
 # 灵魂
 
