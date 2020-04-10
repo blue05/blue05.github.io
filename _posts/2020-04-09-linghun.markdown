@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Linghun"
+categories: random writing
+---
+# 灵魂
+
+
+
+<audio preload="auto" autoplay="autoplay">
+<source src="http://blue05.github.io/_includes/demo/linghun.mp3" type="audio/mp3" />
+</audio>
+
+
+
