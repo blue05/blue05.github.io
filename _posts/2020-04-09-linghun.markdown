@@ -8,7 +8,7 @@ categories: random writing
 
 
 <audio preload="auto" autoplay="autoplay">
-    <source src="/_includes/demo/linghun.m4a" />
+    <source src="https://file-examples.com/wp-content/uploads/2017/11/file_example_MP3_1MG.mp3" />
 </audio>
 
 
