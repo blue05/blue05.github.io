@@ -2,6 +2,7 @@
 layout: post
 title:  "New Me"
 categories: random writing
+date: 2026-08-27 01:10:00 +0900
 ---
 # 新/我
 
